@@ -1,4 +1,6 @@
-# ![logo](https://imgur.com/1XEHjOt) **Fire Safety**
+<img src = "../Immortals/logo.png" alt = "logo">
+
+# **Fire Safety**
 
 ## Participants
 
