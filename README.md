@@ -1,4 +1,4 @@
-<img src = "../Immortals/logo.png" alt = "logo">
+<img src = "logo.png" alt = "logo">
 
 # **Fire Safety**
 
