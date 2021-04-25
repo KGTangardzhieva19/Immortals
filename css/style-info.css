@@ -14,7 +14,7 @@ li {
 
 li a {
     text-decoration: none;
-    color: #4d88ff;
+    color: white;
     text-transform: uppercase;
     font-weight: bold;
 }
@@ -28,7 +28,7 @@ li a {
     float: left;
 }
 
-div {
+.nav {
     background:linear-gradient(-45deg,#f1b035,#ff6633,#e63900,#b32d00);
 }
 
@@ -62,14 +62,11 @@ div a::before {
 div a:hover::before {
     width: 100%;
 }
-div.polaroid {
-    width: 80%;
-    background-color: white;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin-bottom: 25px;
-  }
-  
-  div.container {
-    text-align: center;
-    padding: 10px 20px;
-  }
+.white{
+    width: 100%;
+    height: 100px;
+
+}
+p{
+margin-left: 50px;
+}
