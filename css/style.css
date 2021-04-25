@@ -71,13 +71,14 @@ div a:hover::before {
     float: left;
     width: 23%;
     padding: 1px;
-    
+  
   }
   .column1 {
     float: left;
     width: 23%;
     padding: 1px;
     margin-left: 135px;
+  
     
   }
 
@@ -86,4 +87,11 @@ div a:hover::before {
     clear: both;
     display: table;
   }
- 
+ figcaption{
+   
+     font-weight:bold;
+     font-size: 25px;
+     color: ;
+     text-align: left;
+     
+ }
