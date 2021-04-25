@@ -28,7 +28,7 @@ li a {
     float: left;
 }
 
-div {
+.nav {
     background:linear-gradient(-45deg,#f1b035,#ff6633,#e63900,#b32d00);
 }
 
@@ -62,3 +62,28 @@ div a::before {
 div a:hover::before {
     width: 100%;
 }
+.white{
+    width: 100%;
+    height: 200px;
+
+}
+.column {
+    float: left;
+    width: 23%;
+    padding: 1px;
+    
+  }
+  .column1 {
+    float: left;
+    width: 23%;
+    padding: 1px;
+    margin-left: 135px;
+    
+  }
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+ 
